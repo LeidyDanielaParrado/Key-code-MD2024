@@ -1,0 +1,1 @@
+Este repositorio funciona para contener todas las actividades practicas realizadas en clases del programa mujeres digitales 2024, y tambien las actividades calificables
